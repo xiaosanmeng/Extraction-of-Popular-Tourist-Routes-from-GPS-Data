@@ -1,7 +1,7 @@
 # 轨迹相似度计算
 **轨迹的相似度包含时间相似度与空间相似度，空间相似度用DTW，时间相似度用EMD**
 
-1.**空间相似度计算**
+**1. 空间相似度计算**
 
 ![DTW示意图](https://github.com/zhoujian-hub/Tourism-Trip-Chain-Extraction-Based-on-Multi-Big-Data/blob/master/ImageStore/DTW示意图.png)
 
