@@ -20,4 +20,4 @@
 
 - 将DTW与EMD距离进行归一化，合成为一个指标，最后的轨迹相似的的效果如图
 
-![最终效果图](<div align=center><img src="https://github.com/zhoujian-hub/Tourism-Trip-Chain-Extraction-Based-on-Multi-Big-Data/blob/master/ImageStore/相似度衡量.png" width="300" height="450" /></div>)
+<div align=center><img src="https://github.com/zhoujian-hub/Tourism-Trip-Chain-Extraction-Based-on-Multi-Big-Data/blob/master/ImageStore/相似度衡量.png" width="200" height="200" /></div>
