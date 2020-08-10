@@ -9,6 +9,9 @@
 - 在计算轨迹的累计距离矩阵，依据动态规划
 - 累计距离矩阵的最后的点就是DTW距离
 
+![最佳匹配线形](https://github.com/zhoujian-hub/Tourism-Trip-Chain-Extraction-Based-on-Multi-Big-Data/blob/master/ImageStore/OptimalAlignment.png)
+
+
 **2.时间相似度计算**
 
 - 利用python中已有的集成函数计算scipy.stats中的EMD计算函数
